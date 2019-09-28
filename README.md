@@ -1,4 +1,4 @@
-# Editor_Themes
+# Chameleon Theme
 Colour themes for some of my favourite code editors :art:
 
 https://github.com/Colorsublime/Colorsublime-Themes
