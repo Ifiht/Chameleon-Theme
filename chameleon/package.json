@@ -1,0 +1,21 @@
+{
+    "name": "chameleon",
+    "displayName": "Chameleon",
+    "description": " Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure. ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chameleon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chameleon-color-theme.json"
+            }
+        ]
+    }
+}
