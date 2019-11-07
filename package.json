@@ -4,9 +4,14 @@
     "description": " Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure. ",
     "version": "3.3.0",
     "publisher": "ifiht",
+    "icon": "images/kamy.png",
     "repository": "https://github.com/Ifiht/Chameleon-Theme.git",
     "engines": {
         "vscode": "^1.39.0"
+    },
+    "galleryBanner": {
+        "color": "#04ea64",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
