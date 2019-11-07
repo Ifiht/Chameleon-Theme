@@ -1,0 +1,34 @@
+{
+	"tokenColors": [
+		{
+			"name": "diff.deleted",
+			"scope": [
+				"markup.deleted",
+				"entity"
+			],
+			"settings": {
+				"foreground": "#F92672"
+			}
+		},
+
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#7515B0",
+				"contrastBorder": "#FFA500",
+				"background": "#FCB07233"
+			}
+		}
+	],
+	"colors": {
+		"editor.background": "#1C1C1C",
+		"editorCursor.foreground": "#D3CFC1",
+		"editor.foreground": "#F5F2F2",
+		"editorWhitespace.foreground": "#D8D9D17A",
+		"editor.lineHighlightBackground": "#282828",
+		"editor.selectionBackground": "#FCFBF978"
+	},
+	"name": "Chameleon"
+}
