@@ -2,7 +2,7 @@
     "name": "chameleon",
     "displayName": "Chameleon",
     "description": " Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure. ",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.39.0"
     },
