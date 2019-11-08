@@ -4,7 +4,7 @@
 
 
 # Chameleon Theme
-*Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure.* :art:
+*Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure.* 🦎
 
 
 VSCode | SublimeText
