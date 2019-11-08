@@ -3,8 +3,8 @@
 ![Preview](https://img.shields.io/visual-studio-marketplace/i/ifiht.chameleon?style=flat-square)
 
 
-# Chameleon Theme
-*Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure.* 🦎
+# Chameleon Theme 🦎
+*Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure.* 
 
 
 VSCode | SublimeText
