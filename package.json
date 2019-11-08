@@ -1,16 +1,16 @@
 {
     "name": "chameleon",
     "displayName": "Chameleon",
-    "description": " Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure. ",
-    "version": "4.0.0",
+    "description": "Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure.",
+    "version": "3.3.0",
     "publisher": "ifiht",
-    "icon": "images/kamy.png",
+    "icon": "images/logo.png",
     "repository": "https://github.com/Ifiht/Chameleon-Theme.git",
     "engines": {
         "vscode": "^1.39.0"
     },
     "galleryBanner": {
-        "color": "#04ea64",
+        "color": "#1C1C1C",
         "theme": "dark"
     },
     "categories": [
