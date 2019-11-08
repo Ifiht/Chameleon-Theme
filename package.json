@@ -2,7 +2,7 @@
     "name": "chameleon",
     "displayName": "Chameleon",
     "description": "Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure.",
-    "version": "3.6.0",
+    "version": "4.0.0",
     "publisher": "ifiht",
     "icon": "images/logo.png",
     "repository": "https://github.com/Ifiht/Chameleon-Theme.git",
