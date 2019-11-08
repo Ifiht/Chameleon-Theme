@@ -7,4 +7,10 @@ VSCode | SublimeText
 :------------: | :-------------:
 ![Preview](/images/vscode-capture.PNG) | ![Preview](/images/subl-capture.PNG)
 
-https://github.com/Colorsublime/Colorsublime-Themes
+
+## Install Chameleon:
+* Sublime Text 3
+    * https://colorsublime.github.io/themes/Chameleon/
+* VSCode
+    * https://marketplace.visualstudio.com/items?itemName=ifiht.chameleon
+    
