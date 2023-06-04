@@ -4,7 +4,7 @@
 
 
 # Chameleon Theme 🦎
-*Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for Clojure.*  
+*Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for LISP & derivatives.*  
 __NOTE:__ *For RUBY users on VSCode, please consider using Shopify RUBY extensions ONLY for better TextMate token support.*
 
 
