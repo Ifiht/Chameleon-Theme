@@ -5,7 +5,7 @@
 
 # Chameleon Theme 🦎
 *Dark theme, rainbow contrasts with emphasis on user defined code portions. Tweaked for LISP & derivatives.*  
-__NOTE:__ *For RUBY users on VSCode, please consider using Shopify RUBY extensions ONLY for better TextMate token support.*
+__NOTE:__ *For RUBY users on VSCode, please consider using **[Shopify RUBY extensions](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-extensions-pack&ssr=false)** ONLY for better TextMate token support.*
 
 
 VSCode | SublimeText
