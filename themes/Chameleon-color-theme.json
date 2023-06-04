@@ -103,8 +103,7 @@
 			"scope": [
 				"meta.function",
 				"meta.function-call",
-				"meta.function-call.ruby",
-				"method"
+				"meta.function-call.ruby"
 			],
 			"settings": {
 				"foreground": "#FFB400",
@@ -141,7 +140,10 @@
 		},
 		{
 			"name": "MetaStor",
-			"scope": "storage",
+			"scope": [
+				"storage",
+				"keyword.operator"
+			],
 			"settings": {
 				"foreground": "#FA5300",
 				"background": "#FCE5800F",
