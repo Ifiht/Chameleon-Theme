@@ -152,7 +152,7 @@
 			<key>name</key>
 			<string>Metafunction</string>
 			<key>scope</key>
-			<string>meta.function</string>
+			<string>meta.function, method</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
