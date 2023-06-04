@@ -137,7 +137,7 @@
 			<key>name</key>
 			<string>Metaparens</string>
 			<key>scope</key>
-			<string>meta.parens, entity</string>
+			<string>meta.parens, entity, variable.parameter, parameter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -152,7 +152,7 @@
 			<key>name</key>
 			<string>Metafunction</string>
 			<key>scope</key>
-			<string>meta.function, method</string>
+			<string>meta.function, meta.function-call, meta.function-call.ruby, method</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -352,21 +352,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#F5F3F2</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Parameter</string>
-			<key>scope</key>
-			<string>parameter</string>
-			<key>settings</key>
-			<dict>
-				<key>fontStyle</key>
-				<string> bold </string>
-				<key>foreground</key>
-				<string>#FFA340</string>
-				<key>background</key>
-				<string>#FFF0E01C</string>
 			</dict>
 		</dict>
 	</array>

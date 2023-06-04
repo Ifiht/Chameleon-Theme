@@ -1,4 +1,18 @@
 {
+	"type": "dark",
+	"name": "Chameleon",
+	"semanticHighlighting": true,
+	"colors": {
+		"editor.background": "#1C1C1C",
+		"editorCursor.foreground": "#D3CFC1",
+		"editor.foreground": "#F5F2F2",
+		"editorWhitespace.foreground": "#D8D9D17A",
+		"editor.lineHighlightBackground": "#282828",
+		"editor.selectionBackground": "#FCFBF978",
+		"statusBar.foreground": "#b9b9b9",
+		"statusBar.background": "#030303",
+		"statusBarItem.remoteBackground": "#555555"
+	},
 	"tokenColors": [
 		{
 			"settings": {
@@ -21,7 +35,6 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#DF00FC",
 				"background": ""
 			}
@@ -73,7 +86,9 @@
 			"name": "Metaparens",
 			"scope": [
 				"meta.parens",
-				"entity"
+				"entity",
+				"variable.parameter",
+				"parameter"
 			],
 			"settings": {
 				"foreground": "#FFA200",
@@ -83,7 +98,12 @@
 		},
 		{
 			"name": "Metafunction",
-			"scope": "meta.function",
+			"scope": [
+				"meta.function",
+				"meta.function-call",
+				"meta.function-call.ruby",
+				"method"
+			],
 			"settings": {
 				"foreground": "#FFB400",
 				"background": ""
@@ -150,21 +170,24 @@
 			"name": "diff.deleted",
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#F92672",
+				"fontStyle": " italic"
 			}
 		},
 		{
 			"name": "diff.inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#A6E22E"
+				"foreground": "#A6E22E",
+				"fontStyle": " italic"
 			}
 		},
 		{
 			"name": "diff.changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#967EFB"
+				"foreground": "#967EFB",
+				"fontStyle": " italic"
 			}
 		},
 		{
@@ -173,7 +196,7 @@
 			"settings": {
 				"foreground": "#7515B0",
 				"background": "#0F081426",
-				"fontStyle": " bold"
+				"fontStyle": " bold "
 			}
 		},
 		{
@@ -214,17 +237,5 @@
 				"foreground": "#F5F3F2"
 			}
 		}
-	],
-	"colors": {
-		"editor.background": "#1C1C1C",
-		"editorCursor.foreground": "#D3CFC1",
-		"editor.foreground": "#F5F2F2",
-		"editorWhitespace.foreground": "#D8D9D17A",
-		"editor.lineHighlightBackground": "#282828",
-		"editor.selectionBackground": "#FCFBF978",
-		"statusBar.foreground": "#b9b9b9",
-		"statusBar.background": "#030303",
-		"statusBarItem.remoteBackground": "#555555"
-	},
-	"name": "Chameleon"
+	]
 }
