@@ -11,6 +11,8 @@
 		"editor.selectionBackground": "#FCFBF978",
 		"statusBar.foreground": "#b9b9b9",
 		"statusBar.background": "#030303",
+		"statusBar.noFolderBackground" : "#0f1111",
+    	"statusBar.debuggingBackground": "#091414",
 		"statusBarItem.remoteBackground": "#555555"
 	},
 	"tokenColors": [
