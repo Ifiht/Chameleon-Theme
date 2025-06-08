@@ -9,6 +9,7 @@ __NOTE:__ *For RUBY users on VSCode, please consider using **[Shopify RUBY exten
 
 
 VSCode | SublimeText
+]:\'[;'\\\[\]
 :------------: | :-------------:
 ![Preview](/images/vscode-capture.PNG) | ![Preview](/images/subl-capture.PNG)
 

@@ -1,0 +1,11 @@
+{
+  "name": "Chameleon",
+  "author": "YourCompany",
+  "dark": true,
+  "colors": {
+    "primaryRed": "#821010"
+  },
+  "ui": {
+    "Button.background": "primaryRed"
+  }
+}
